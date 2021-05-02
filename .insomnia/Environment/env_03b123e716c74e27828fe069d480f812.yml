@@ -1,0 +1,14 @@
+_id: env_03b123e716c74e27828fe069d480f812
+type: Environment
+parentId: env_a232aaf37720a69d72df8d0d46ba08245f5e9aae
+modified: 1619959715959
+created: 1619959684083
+name: TESTENV
+data:
+  base_url: https://jsonplaceholder.typicode.com
+dataPropertyOrder:
+  "&":
+    - base_url
+color: null
+isPrivate: false
+metaSortKey: 1619959684083

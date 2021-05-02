@@ -1,0 +1,21 @@
+_id: req_f5b84e0940434e82bf21ebb7959444c9
+type: Request
+parentId: wrk_a75c6788d27a48e98cfbf290ffed3ff9
+modified: 1619959755642
+created: 1619959732682
+url: "{{ _.base_url }}/users/{% random 0, 10 %}"
+name: TestREQUSER
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1619959732750
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
